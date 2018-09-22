@@ -1,9 +1,9 @@
-# tinytrump-assets
-Welcome to tinytrump's github page! If you're unsure what to do, just find the green button 👆 that says "Clone or download" and choose "Download Zip."
-
-![alt-text](https://tinytrumpproject.com/assets/images/img-1823.jpg "tiny trump in city landscape with 'Big Bullies Are Small People' on the torso")
+# tiny trump
+Welcome to tiny trump's github page! If you're unsure what to do, just find the green button 👆 that says "Clone or download" and choose "Download Zip."
 
 ## tiny trump is a crowdsourced art installation by [Eric Corriel](http://www.ericcorriel.com) that harness the energy and will of the public to inject resistance totems into the NYC landscape and beyond. [tinytrumpproject.com](https://tinytrumpproject.com) for more info.
+
+![alt-text](https://tinytrumpproject.com/assets/images/img-1823.jpg "tiny trump in city landscape with 'Big Bullies Are Small People' on the torso")
 
 Feel free to use these assets in any way you like.
 
