@@ -1,0 +1,1 @@
+The illustrator files used to create these assets are in /illustrator/typographic slogans
