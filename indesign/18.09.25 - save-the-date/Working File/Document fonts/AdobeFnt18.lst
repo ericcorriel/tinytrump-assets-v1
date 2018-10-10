@@ -1,0 +1,103 @@
+%!Adobe-FontList 1.18
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Cala-LightItalic
+FamilyName:Cala
+StyleName:Light Italic
+MenuName:Cala-LightItalic
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Cala-LightItalic
+WritingScript:Roman
+OutlineFileName:\Hoftype - Cala-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:200008
+FileModTime:1373847218
+NameArray:0,Mac,4,Cala-LightItalic
+NameArray:0,Win,1,Cala-LightItalic
+NameArray:0,Win,16,Cala
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Cala-MediumItalic
+FamilyName:Cala
+StyleName:Medium Italic
+MenuName:Cala-MediumItalic
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Cala-MediumItalic
+WritingScript:Roman
+OutlineFileName:\Hoftype - Cala-MediumItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:204216
+FileModTime:1373847218
+NameArray:0,Mac,4,Cala-MediumItalic
+NameArray:0,Win,1,Cala-MediumItalic
+NameArray:0,Win,16,Cala
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Simplo-Demi
+FamilyName:Simplo
+StyleName:Demi
+MenuName:Simplo Light
+StyleBits:2
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Simplo Demi
+WritingScript:Roman
+OutlineFileName:\Simplo-Demi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:113208
+FileModTime:1338852503
+NameArray:0,Mac,4,Simplo Demi
+NameArray:0,Win,1,Simplo Light
+NameArray:0,Win,16,Simplo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Simplo-Medium
+FamilyName:Simplo
+StyleName:Medium
+MenuName:Simplo Medium
+StyleBits:0
+WeightClass:550
+WidthClass:5
+AngleClass:0
+FullName:Simplo Medium
+WritingScript:Roman
+OutlineFileName:\Simplo-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+FileLength:113452
+FileModTime:1338852504
+NameArray:0,Mac,4,Simplo Medium
+NameArray:0,Win,1,Simplo Medium
+NameArray:0,Win,16,Simplo
+%EndFont
+

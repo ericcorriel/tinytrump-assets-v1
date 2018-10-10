@@ -1,0 +1,89 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: savethedate.indd
+
+PACKAGE DATE: 9/29/18 3:20 PM
+Creation Date: 9/29/18
+Modification Date: 9/29/18
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :On Page1
+
+FONTS
+4 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Cala-LightItalic; Type: OpenType Type 1, Status: OK
+- Name: Cala-MediumItalic; Type: OpenType Type 1, Status: OK
+- Name: Simplo-Demi; Type: OpenType Type 1, Status: OK
+- Name: Simplo-Medium; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+3 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 0 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript® File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Tabloid
+Paper Dimensions: 0 in x 0 in
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. savethedate.indd; type: Adobe InDesign publication; size: 1596K
+2. savethedate.idml; type: InDesign Markup Document; size: 75K
+3. savethedate.pdf; type: Adobe Acrobat Document; size: 41K
+4. Hoftype - Cala-LightItalic.otf; type: Font file; size: 195K
+5. Hoftype - Cala-MediumItalic.otf; type: Font file; size: 199K
+6. Simplo-Demi.otf; type: Font file; size: 110K
+7. Simplo-Medium.otf; type: Font file; size: 110K
